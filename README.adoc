@@ -25,55 +25,55 @@ Estelares, sin ser destruida en el intento.
 .Clase Asteroide
 [source, java]
 ----
-include::Juego-LostGalaxian/src/juego/Asteroide.java[]
+include::JuegoLostGalaxian/src/juego/Asteroide.java[]
 ----
 
 .Clase AstroMegaShip
 [source, java]
 ----
-include::Juego-LostGalaxian/src/juego/AstroMegaShip.java[]
+include::JuegoLostGalaxian/src/juego/AstroMegaShip.java[]
 ----
 
 .Clase DestructorEstelar
 [source, java]
 ----
-include::Juego-LostGalaxian/src/juego/DestructorEstelar.java[]
+include::JuegoLostGalaxian/src/juego/DestructorEstelar.java[]
 ----
 
 .Clase Item
 [source, java]
 ----
-include::Juego-LostGalaxian/src/juego/Item.java[]
+include::JuegoLostGalaxian/src/juego/Item.java[]
 ----
 
 .Clase JefeFinal
 [source, java]
 ----
-include::Juego-LostGalaxian/src/juego/JefeFinal.java[]
+include::JuegoLostGalaxian/src/juego/JefeFinal.java[]
 ----
 
 .Clase Juego
 [source, java]
 ----
-include::Juego-LostGalaxian/src/juego/Juego.java[]
+include::JuegoLostGalaxian/src/juego/Juego.java[]
 ----
 
 .Clase LaserJefe
 [source, java]
 ----
-include::Juego-LostGalaxian/src/juego/LaserJefe.java[]
+include::JuegoLostGalaxian/src/juego/LaserJefe.java[]
 ----
 
 .Clase Proyectil
 [source, java]
 ----
-include::Juego-LostGalaxian/src/juego/Proyectil.java[]
+include::JuegoLostGalaxian/src/juego/Proyectil.java[]
 ----
 
 .Clase Sonido
 [source, java]
 ----
-include::Juego-LostGalaxian/src/juego/Sonido.java[]
+include::JuegoLostGalaxian/src/juego/Sonido.java[]
 ----
 
 == Conclusiones
