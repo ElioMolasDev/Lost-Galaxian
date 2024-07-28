@@ -1,7 +1,9 @@
 # Programación I - Primer Semestre 2023 - Trabajo Práctico: Lost Galaxian
-###Equipo
+### Equipo7
+
 Ibarra Mauro <mauroibarra333@gmail.com>; Molas Elio <eliomolas14@hotmail.com>; San_Martin Francisco <franciscosanmartin96@gmail.com>. 
-###Docentes: 
+### Docentes:
+
 Damian Marquez, Leonardo Waingarten y Hernán Rondelli (COM-01)
 
 ## Introducción
