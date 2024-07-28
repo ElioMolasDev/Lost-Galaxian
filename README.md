@@ -1168,7 +1168,7 @@ public class LaserJefe {
 
 }
 ```
-###Clase Proyectil
+### Clase Proyectil
 ```java
 public class Proyectil {
 	private double x;
